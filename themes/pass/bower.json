@@ -1,0 +1,9 @@
+{
+  "name": "pass",
+  "version": "0.0.0",
+  "description": "pass hexo theme",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
